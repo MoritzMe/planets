@@ -1,2 +1,2 @@
 It is a planet! that sucks
-This line should be in conflict.
+My line is better
